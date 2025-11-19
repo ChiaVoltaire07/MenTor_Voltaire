@@ -6,27 +6,27 @@ MenTor is a comprehensive web-based student management system designed to stream
 
 ### Student Features:
 
-*   **Dashboard:** Personalized overview of academic progress.
-*   **My Courses:** View enrolled courses and their details.
-*   **CA Marks:** Check continuous assessment marks.
-*   **Transcripts:** Access and download academic transcripts.
-*   **Profile Management:** Update personal information.
+- **Dashboard:** Personalized overview of academic progress.
+- **My Courses:** View enrolled courses and their details.
+- **CA Marks:** Check continuous assessment marks.
+- **Transcripts:** Access and download academic transcripts.
+- **Profile Management:** Update personal information.
 
 ### Admin Features:
 
-*   **User Management:** Add, edit, and manage student and admin accounts.
-*   **Course Management:** Create, update, and delete courses.
-*   **Enrollment Management:** Handle student enrollments in courses.
-*   **Grade Management:** Record and update student grades for assessments.
-*   **Program Management:** Define and manage academic programs.
-*   **School Management:** Administer different schools or departments within the institution.
-*   **Transcript Generation:** Generate and manage student transcripts.
+- **User Management:** Add, edit, and manage student and admin accounts.
+- **Course Management:** Create, update, and delete courses.
+- **Enrollment Management:** Handle student enrollments in courses.
+- **Grade Management:** Record and update student grades for assessments.
+- **Program Management:** Define and manage academic programs.
+- **School Management:** Administer different schools or departments within the institution.
+- **Transcript Generation:** Generate and manage student transcripts.
 
 ## 🚀 Technologies Used
 
-*   **Frontend:** HTML5, CSS3, JavaScript
-*   **Backend:** PHP
-*   **Database:** MySQL (managed with phpMyAdmin)
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL (managed with phpMyAdmin)
 
 ## 📁 Project Structure
 
@@ -71,13 +71,13 @@ cd MenTor
 
 ### 3. Web Server Configuration
 
-*   Ensure you have a web server (like Apache or Nginx) with PHP installed.
-*   Place the `MenTor` project directory in your web server's document root (e.g., `htdocs` for Apache).
+- Ensure you have a web server (like Apache or Nginx) with PHP installed.
+- Place the `MenTor` project directory in your web server's document root (e.g., `htdocs` for Apache).
 
 ### 4. Database Connection
 
-*   Open `includes/db_connect.php`.
-*   Update the database connection details (hostname, username, password, database name) if they differ from your local setup.
+- Open `includes/db_connect.php`.
+- Update the database connection details (hostname, username, password, database name) if they differ from your local setup.
 
 ```php
 <?php
@@ -104,16 +104,13 @@ Open your web browser and navigate to the URL where you placed the project (e.g.
 
 For initial testing, you can use the following admin credentials:
 
-*   **Email:** `admin@mentor.edu`
-*   **Password:** `password` (This password is hashed in the database. You might need to re-hash it or use the `hash_password.php` script to create new admin users.)
+- **Email:** `admin@mentor.edu`
+- **Password:** `password` (This password is hashed in the database. You might need to re-hash it or use the `hash_password.php` script to create new admin users.)
 
-## 🤝 Contributing
+## 🤝 Contribution of Voltage(github:@ChiaVoltaire07)
 
-Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
-
+     My name is Chia Douanla Voltaire, my contribution is to add my name to your readme.md file.Thank You.
 
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue on the GitHub repository. (Note: Assuming a GitHub repository for support.)
-
-
